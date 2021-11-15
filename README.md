@@ -1,5 +1,5 @@
 ### Olá eu sou o Jorel Magatti 👋
-  <img align="center" alt="Jor-El" src="https://upload.wikimedia.org/wikipedia/en/5/5d/Jor-El_%28circa_2001%29.png">
+  <!--<img align="center" alt="Jor-El" src="https://upload.wikimedia.org/wikipedia/en/5/5d/Jor-El_%28circa_2001%29.png">-->
 
 - 🔭 Hojê trabalho com Back-end C# Api Rest .Net Core e .Net Framework
 - 🌱 Estudando Nodejs
