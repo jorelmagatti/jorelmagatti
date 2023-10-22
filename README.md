@@ -2,7 +2,7 @@
   <img align="center" alt="Jor-El" src="https://lh3.googleusercontent.com/pw/AM-JKLWhTlupIhxcTd2WP3I3BeqIAQAhZrFB2KHckLmL_y6LRM2N0xt--vpSGuoXOOr4hnmlX1WX-KVp9fbQVWXLl-NKiPpaYxnCf9ItoHPnjPJ_Y6tQVD5Go1kWLGaWRVYhZmU0zVuItAmyYgjMU_J9Qw82=w512-h683-no?authuser=0">
 
 - 🔭 Hojê trabalho com Back-end C# Api Rest .Net Core e .Net Framework
-- 🌱 Estudando Nodejs
+- 🌱 Estudando Nodejs, Python para Backend
 - 💬 Contate-me no e-mail: jorel_dev@hotmail.com
 <div align="center">
   <a href="https://github.com/jorelmagatti">
